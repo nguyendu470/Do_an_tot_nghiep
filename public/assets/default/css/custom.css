@@ -1,0 +1,16 @@
+.course-description{
+	line-break: auto;
+}
+.testimonials-container .testimonials-card{
+	line-break: auto;
+}
+
+.course-cover-container .cover-content .offer-percent-box .off{
+	text-align: center;
+}
+.subscribes-container{
+	padding-top: 80px;
+}
+.slider-container{
+  padding: 100px 0 200px;
+}
